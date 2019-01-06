@@ -1,3 +1,2 @@
 # Hello-World
-This is my tutorial to github.
-Please contribute to my OpenSource project.
+This is my first Java program and commit to Github.
